@@ -31,6 +31,7 @@
 }
 
 .education .title{
+  padding-top: 10px;
   text-align: center;
   font-weight: bold;
 }
@@ -49,14 +50,15 @@
 }
 
 .experience .title{
+  padding-top: 10px;
   font-weight: bold;
   text-align: center;
 }
 
 .experience .item .info{
   padding-bottom: 10px;
-
 }
+
 .publication{
   padding-bottom: 10px;
 }
