@@ -63,4 +63,13 @@
 
 .publication .title {
   font-style: italic;
+  text-align: center;
+}
+
+.publication .authors{
+  text-align: center;
+}
+
+.publication .pub_date{
+  text-align: right;
 }
