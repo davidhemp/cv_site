@@ -1,0 +1,66 @@
+.links-col{
+  background-color: lightgrey;
+  padding-top: 5px;
+}
+
+.profile {
+  border-radius: 50%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.goals {
+}
+
+.experience{
+}
+
+.education{
+
+}
+
+.education img{
+  width: 100%;
+}
+
+.education .timeframe{
+  margin: auto;
+  text-align: right;
+}
+
+.education .title{
+  text-align: center;
+  font-weight: bold;
+}
+
+.education .item .info {
+  padding-bottom: 10px;
+}
+
+.experience img{
+  width: 100%;
+}
+
+.experience .timeframe{
+  margin: auto;
+  text-align: right;
+}
+
+.experience .title{
+  font-weight: bold;
+  text-align: center;
+}
+
+.experience .item .info{
+  padding-bottom: 10px;
+
+}
+.publication{
+  padding-bottom: 10px;
+}
+
+.publication .title {
+  font-style: italic;
+}
