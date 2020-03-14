@@ -1,16 +1,21 @@
+
 .links-col{
   background-color: lightgrey;
-  padding-top: 5px;
+  /* padding-bottom: 182px; */
 }
 
 .profile {
+  padding-top: 5px;
   border-radius: 50%;
   width: 80%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 }
 
+.copy_right{
+  text-align: center;
+  padding-top: 50px;
+}
 .goals {
 }
 
